@@ -23,9 +23,3 @@ You are tasked with analyzing the company’s consumer behavior dataset to answe
 - Build an interactive dashboard that highlights key patterns and trends.
 - Enable stakeholders to make data-driven decisions.
 
-### **4. Report and Presentation**
-- Write a clear project report summarizing key findings and business recommendations.
-- Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
-
-### **5. GitHub Repository**
-- Include all Python scripts, SQL queries, and dashboard files in a well-structured repository.
